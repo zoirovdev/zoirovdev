@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abbos Zoirov</h1>
-<p>A passionate full-stack developer from Uzbekistan</p>
+<p>A full-stack developer from Uzbekistan</p>
 
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
