@@ -32,11 +32,14 @@ A full-stack developer from Uzbekistan
 
 ## 📊 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoirovdev&show_icons=true&locale=en" alt="zoirovdev" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoirovdev&theme=github" alt="zoirovdev" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoirovdev&" alt="zoirovdev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoirovdev&theme=dark" alt="zoirovdev" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoirovdev&show_icons=true&locale=en&layout=compact" alt="zoirovdev" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoirovdev&theme=github" alt="zoirovdev" />
+</p>
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zoirovdev&theme=github" alt="zoirovdev" />
 </p>
