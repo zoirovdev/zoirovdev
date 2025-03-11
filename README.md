@@ -35,9 +35,6 @@ A full-stack developer from Uzbekistan
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoirovdev&theme=github" alt="zoirovdev" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoirovdev&theme=dark" alt="zoirovdev" />
-</p>
-<p>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoirovdev&theme=github" alt="zoirovdev" />
 </p>
 <p>
