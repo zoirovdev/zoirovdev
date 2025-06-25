@@ -65,15 +65,15 @@ const abbos = {
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/abboszoirov](https://linkedin.com/in/abboszoirov)
-- 🐦 **Twitter:** [@abboszoirov](https://twitter.com/abboszoirov)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** [abboszoirov.dev](https://abboszoirov.dev)
+- 🐦 **Twitter:** [@abboszoirov](https://twitter.com/dotnetbuilt)
+- 📧 **Email:** abboszoirov17@gmail.com
+- 🌐 **Portfolio:** [abboszoirov.dev not available](https://abboszoirov.dev) 
 
 ## 🎯 Fun Facts About Me
 
-- 🌍 Based in [Your Location]
-- ☕ Powered by coffee and curiosity
-- 🎮 When I'm not coding, you'll find me [your hobbies]
+- 🌍 Based in Tashkent
+- ☕ Powered by curiosity
+- 🎮 When I'm not coding, you'll find me spleeping
 - 🚀 Always excited to collaborate on interesting projects!
 
 ---
