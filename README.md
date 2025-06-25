@@ -32,12 +32,6 @@ I craft end-to-end web solutions using modern JavaScript technologies, specializ
 - 🌟 Contributing to open-source projects
 - 📖 Sharing knowledge through code and documentation
 
-## 📊 GitHub Stats
-
-![Abbos's GitHub stats](https://github-readme-stats.vercel.app/api?username=abboszoirov&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abboszoirov&layout=compact&theme=radical&hide_border=true)
-
 ## 🔥 Current Focus
 
 ```javascript
