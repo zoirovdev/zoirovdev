@@ -64,7 +64,7 @@ const abbos = {
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/abboszoirov](https://linkedin.com/in/abboszoirov)
+- 💼 **LinkedIn:** [linkedin.com/in/abboszoirov](https://www.linkedin.com/in/dotnetbuilt/)
 - 🐦 **Twitter:** [@abboszoirov](https://twitter.com/dotnetbuilt)
 - 📧 **Email:** abboszoirov17@gmail.com
 - 🌐 **Portfolio:** [abboszoirov.dev not available](https://abboszoirov.dev) 
