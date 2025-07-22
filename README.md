@@ -57,7 +57,7 @@ const abbos = {
 ## 🌟 Featured Projects
 
 ### 📝 [Dengiz](https://dengiz.biz)
-> Brief description of your coolest project
+> Dengiz is a sea of insights and thouhts. It is a blog writing web app.
 - **Tech:** React, Node.js, Express, PostgreSQL
 - [🔗 Live Demo](https://dengiz.biz)
 
