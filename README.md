@@ -56,18 +56,15 @@ const abbos = {
 
 ## 🌟 Featured Projects
 
-### 📝 [Project Name](link-to-repo)
+### 📝 [Dengiz](https://dengiz.biz)
 > Brief description of your coolest project
 - **Tech:** React, Node.js, Express, PostgreSQL
-- **Features:** Key features that make it awesome
-- [🔗 Live Demo](demo-link) | [📱 Repo](repo-link)
+- [🔗 Live Demo](https://dengiz.biz)
 
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/abboszoirov](https://www.linkedin.com/in/dotnetbuilt/)
-- 🐦 **Twitter:** [@abboszoirov](https://twitter.com/dotnetbuilt)
 - 📧 **Email:** abboszoirov17@gmail.com
-- 🌐 **Portfolio:** [abboszoirov.dev not available](https://abboszoirov.dev) 
 
 ## 🎯 Fun Facts About Me
 
